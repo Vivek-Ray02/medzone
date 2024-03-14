@@ -70,7 +70,7 @@ if ($result) {
 				<a class="nav-link" href="index.html">Home</a>
 			  </li>
 			   <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-			    <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+			    <li class="nav-item"><a class="nav-link" href="service.html">Services</a></li>
 
 			    <li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="department.html" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Department <i class="icofont-thin-down"></i></a>
